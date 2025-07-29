@@ -1,75 +1,760 @@
 # Portafolio de Xavi
 
 Este es un resumen de los proyectos web en los que he trabajado año a año.
+# 🚀 Portafolio Web - Xavi
+
+Este portafolio detalla mi trayectoria profesional en desarrollo web, resaltando colaboraciones y resultados clave año a año.
 
 ---
 
-## 2025
-- **Web para empresa X** – Sitio WordPress con integración WooCommerce + Redsys.
-- **Formulario dinámico para escuela Y** – Sistema de pasos con validación y control de roles en WPForms.
-- **React + Node App para Technoform** – Tabla dinámica con filtros, exportación a Excel y consumo de API.
+## 📅 Año 2025
 
-## 2024
-- **Xerigots.cat** – Personalización de WooCommerce, filtros por categorías y cupones automáticos.
-- **Plugin personalizado WordPress** – Restricción de notificaciones y mejora en roles de usuario.
-- **Sistema de evaluación en WordPress** – Cuestionario con límites de tiempo y diseño adaptado.
+### 🌐 ACX Aesthetic & Beauty, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
 
-## 2023
-- *(Aquí puedes añadir más si tienes documentación o recuerdos de proyectos anteriores)*
+### 🌐 AMTU (Mant. webs)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Acceleralia, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Ajuntament de Santa Margarida i els Monjos
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Alba Servicios Consultoría, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Anda Marketing Estratégico, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Antoni Colomé Poch
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Aula d´Estudis Univer. Gent Gran Vilafranca
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Automòbils Supra Motor, sl. (Web)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 B&W Maletas Técnicas sl. (Plasbox)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Beach Soccer World Wide, sl. (Desenvolupament)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Beach Soccer Worldwide, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Bresco Alarí, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Bruc Jardí, slu. (Online)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Bruc Jardí, slu. (TIC)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Cafès Novell, sa.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Canals i Munné, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Casas Raluy, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Catalana Brasileira Comercial, sl. CBC
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Cavas J. Hill, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Caves Ferret, sa.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Cetriko, sl. (Desenv + Web)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Claso Audiologia, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Clínica Guanter, slp. (TIC)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Codina Puig Assessors, slu.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Codina Puig Assessors, slu. (Desenv)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Col.legi Garbiñé Bcn, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Com. Mina i Aigües de la Salut, sa. (IT)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Com. Mina i Aigües de la Salut, sa. (Web)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Crece Plus, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Currutacu Xilum, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Elmer Automoción, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Enric Paré Arquitectes Assoc., slp.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Erlebnis, slu. (Albert Punsola)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Etilau Labels & Stickers, slu.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Federació Assoc. Gitanes Catalunya
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Fibran, sa.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Fleximecan, slu.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Fund. Privada Hospital Sant Joan Baptista
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Fustes Castella, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Haitian Ibérica, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Homologation Student Services, sl. (Web Hostudents
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 IMF - Escola d´Enoturisme de Catalunya
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Luiso, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Ma. Teresa López Pérez (Maite Osteopata)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Motor Munich, sa. (Backoffice env. Fres PDF)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Muutos Evolution Consulting, slu.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Normalizados CMEM, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Ortopèdia Santa Coloma, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Palacios Brn Color, slu.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Pirotecnia Igual, sa.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Pro Beach Soccer, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Prolase, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Rentel Alquiler Maquinaria Barcelona, slu.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Residència Barcelona, sl. (Desenv. Web)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Residència Barcelona, sl. (Mant. IT)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Ricard Domènech Font (Vilareformes)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 SEE Network, slu. (Web + Mkt)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Singular Logistics, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Somafluids, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Sungrip, sl. (Solduct)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Supace Orto-Distribución, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Tallers Pacs 1980, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 TastExperience, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Technoform Bautec Ibérica, slu.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Technology 2050, sl. (Desenvolupament)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Telemesa Booking Service, sl. (Estrategia Online)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Telemesa Booking Service, sl. (IT)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Todoa Resort, sl. (APPs CCAdicciones)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Ventura Extranjería Abogados, slp.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Ventura Extranjería Abogados, slp. (SEO + Blog)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Xerigots Formatget i Vins, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Yacht Service Team, slu.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
 
 ---
 
-## 🌐 Tecnologías
-- PHP, WordPress, WooCommerce
-- React, Node.js, Express
-- MySQL, Firebase
-- Git, GitHub, Bitbucket
+## 📅 Año 2024
 
-## 📫 Contacto
-- Web personal: [xavi.dev](https://xavi.dev) (si tienes)
-- Email: tuemail@ejemplo.com
-- LinkedIn: [linkedin.com/in/xavi](https://linkedin.com/in/xavi)
+### 🌐 ACX Aesthetic & Beauty, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
 
-# Portafolio Web de Xavi
+### 🌐 AMTU (Mant. webs)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
 
-Bienvenido a mi portafolio, donde muestro los proyectos web y desarrollos en los que he trabajado año a año.
+### 🌐 Acceleralia, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Ajuntament de Santa Margarida i els Monjos
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Ajuntament de Soses
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Ajuntament de Vilafranca del Penedès (Outsourcing)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Ajuntament d´Avinyonet
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Anda Marketing Estratégico, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Antoni Colomé Poch
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Arogreen, sl. (Online)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Assessoria Sant Pere de Ribes, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Assoc. Mun. Mobilitat i el Transport Urbà (AMTU)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Aula d´Estudis Univer. Gent Gran Vilafranca
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Automòbils Supra Motor, sl. (Web)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 B&W Maletas Técnicas sl. (Plasbox)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Bagdad, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Beach Soccer World Wide, sl. (Desenvolupament)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Beach Soccer Worldwide, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Bresco Alarí, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Bruc Jardí, slu. (Online)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Bruc Jardí, slu. (TIC)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Cadena Don Pizza, sl. (Carpipizza)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Cafès Novell, sa.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Cal Vicentó, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Canals i Munné, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Carbòniques Castellví, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Casas Raluy, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Català Reinon Advocats, slp.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Cetriko, sl. (Desenv + Web)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Cetriko, sl. (Manteniment IT)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Clara Gil Massana (AudioCentroVila)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Closet Bcn, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Clínica Guanter, slp. (TIC)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Codina Puig Assessors, slu.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Col.legi Garbiñé Bcn, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Comercial Econord, sc. (Cannaliagrow)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Currutacu Xilum, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Custodia Documental, sa.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Distribucions d´Alimentació Llopart, sa.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Dordal, sa. (Reputació Online)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 El Pingüí Fermí Serveis, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Elmer Automoción, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Erlebnis, slu. (Albert Punsola)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Escola Poliesportiva La Molina, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Fleximecan, slu.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Fund. Privada Hospital Sant Joan Baptista
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Fundació Privada MAP
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Fustes Castella, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 GNS Grup LCO, sl. (Las Colinas Ocasión)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Gibeos 2001, sl. (Jocs Recreatius IT)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 IMF - Escola d´Enoturisme de Catalunya
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Inpasima 2015, sl. (Corporación Closol)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Laboratorios Maymo, sau.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Llar d´Avis UEBE
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Luferviga, sl. (themariashop.com)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Luiso, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Ma. Teresa López Pérez (Maite Osteopata)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Marc Grau Sendre (Starnatalis)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Mirsa Mobles i Decoració, sa.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Motor Munich, sa. (Backoffice env. Fres PDF)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Motor Munich, sa. (Sabadell-Terrassa-StCugat)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Muutos Evolution Consulting, slu.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Normalizados CMEM, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Ortopèdia Santa Coloma, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Ortopèdia Santa Coloma, sl. (Ortoplanet)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Pirotecnia Igual, sa.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Pro Beach Soccer, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Rentel Alquiler Maquinaria Barcelona, slu.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Residència Barcelona, sl. (Desenv. Web)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Residència Barcelona, sl. (Mant. IT)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Salut Vallès, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Singular Logistics, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Singular Logistics, sl. (Mant Web)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Soluciones Técnicas Agua, sl. (Aquaflix)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Somafluids, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Supace Orto-Distribución, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Tallers Pacs 1980, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 TastExperience, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Technoform Bautec Ibérica, slu.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Technology 2050, sl. (Desenvolupament)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Technology 2050, sl. (IT)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Telemesa Booking Service, sl. (IT)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Todoa Resort, sl. (APPs CCAdicciones)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Todoa Resort, sl. (Backup Remot)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Todoa Resort, sl. (TIC)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Transports Guixà, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Ventura Extranjería Abogados, slp.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Xerigots Formatget i Vins, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📅 Año 2023
 
-Soy desarrollador web con experiencia en WordPress, WooCommerce, React, Node.js y más.  
-Me gusta crear soluciones prácticas, optimizadas y adaptadas a las necesidades del cliente.
+### 🌐 AMTU (Mant. webs)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Ajuntament de Soses
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Ajuntament d´Avinyonet
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Alba Servicios Consultoría, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Assoc. Mun. Mobilitat i el Transport Urbà (AMTU)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Aula d´Estudis Univer. Gent Gran Vilafranca
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Automòbils Supra Motor, sl. (Web)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 B&W Maletas Técnicas sl. (Plasbox)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Bagdad, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Beach Soccer World Wide, sl. (Desenvolupament)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Bresco Alarí, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Bruc Jardí, slu. (Online)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Bruc Jardí, slu. (TIC)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Cafès Novell, sa.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Cal Vicentó, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Canals i Munné, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Cetriko, sl. (Desenv + Web)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Closet Bcn, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Col.legi Garbiñé Bcn, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Comercial Econord, sc. (Cannaliagrow)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Currutacu Xilum, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Custodia Documental, sa.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Distribucions d´Alimentació Llopart, sa.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Eurotrod Iberia, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Fund. Privada Hospital Sant Joan Baptista
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 GNS Grup LCO, sl. (Las Colinas Ocasión)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Gibeos 2001, sl. (Jocs Recreatius IT)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Inst. d´Estudis Fotogràfics Catalunya IEFC
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Jounou 2008, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Luferviga, sl. (themariashop.com)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Mac Group Stands, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Motor Munich, sa. (Sabadell-Terrassa-StCugat)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Ortopèdia Santa Coloma, sl. (Ortoplanet)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Pirotecnia Igual, sa.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Reformas Can Ram, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Rentel Alquiler Maquinaria Barcelona, slu.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Salut Vallès, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Soluciones Técnicas Agua, sl. (Aquaflix)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 TastExperience, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Technology 2050, sl. (Desenvolupament)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Technology 2050, sl. (IT)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Timbrados Valencia, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Todoa Resort, sl. (APPs CCAdicciones)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Todoa Resort, sl. (Online)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Todoa Resort, sl. (TIC)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Xerigots Formatget i Vins, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
 
 ---
 
-## 📅 Proyectos destacados
+## 📅 Año 2022
 
-### 2025
-- **Web para empresa X**  
-  Desarrollo de sitio WordPress con integración WooCommerce y Redsys para pagos seguros.  
-- **Formulario dinámico para escuela Y**  
-  Implementación de formulario paso a paso en WPForms, con validaciones personalizadas y roles diferenciados para alumnos y profesores.  
-- **App React + Node.js para Technoform**  
-  Tabla dinámica con filtros, exportación a Excel y consumo de API externa para pedidos y gestión avanzada.
+### 🌐 AMTU (Mant. webs)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
 
----
+### 🌐 Ajuntament d´Aitona
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
 
-### 2024
-- **Xerigots.cat**  
-  Personalización avanzada de WooCommerce: filtros de categorías, cupones automáticos, opciones de envío con descuentos específicos y gestión de pedidos recurrentes.  
-- **Plugin personalizado WordPress**  
-  Modificación para desactivar notificaciones de cambio de contraseña al admin y mantenerlas para clientes.  
-- **Sistema de evaluación para WordPress**  
-  Cuestionarios con límite de tiempo, restricción para repetir y diseño responsive personalizado con colores de la marca.
+### 🌐 Alba Servicios Consultoría, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
 
----
+### 🌐 Antoni Colomé Poch
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
 
-### 2023
-- **Landing pages y sites corporativos**  
-  Varias webs corporativas con diseño responsive y optimización SEO básico.  
-- **Integración con APIs externas**  
-  Automatización de tareas y sincronización de datos con servicios de terceros.
+### 🌐 Assoc. Mun. Mobilitat i el Transport Urbà (AMTU)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Aula d´Estudis Univer. Gent Gran Vilafranca
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Automòbils Supra Motor, sl. (Web)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Bagdad, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Beach Soccer World Wide, sl. (Desenvolupament)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Bresco Alarí, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 By Energy 2016, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Cafès Novell, sa.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Canals i Munné, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Carbòniques Castellví, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Casas Raluy, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Cetriko, sl. (Desenv + Web)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Cetriko, sl. (Manteniment IT)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Closet Bcn, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Comercial Econord, sc. (Cannaliagrow)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Currutacu Xilum, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Diesel Penedès, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Dordal, sa. (Reputació Online)
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Energy Strom XXI, sl.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Enric Paré Arquitectes Assoc., slp.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Haitian Ibérica, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Luferviga, sl. (themariashop.com)
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Luiso, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Luís Stevens Garzón Hernández (Chiquicar)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Mampares d´Oficina Nouestil, sl.
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Ortopèdia Santa Coloma, sl. (Ortoplanet)
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Palacios Brn Color, slu.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 Pirotecnia Igual, sa.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Rentel Alquiler Maquinaria Barcelona, slu.
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
+
+### 🌐 Residència Barcelona, sl. (Desenv. Web)
+- **Resumen profesional:** Implementación de soluciones digitales que fortalecen la presencia online y la operatividad.
+
+### 🌐 Salut Vallès, sl.
+- **Resumen profesional:** Coordinación y ejecución de tareas de desarrollo para asegurar estabilidad y rendimiento.
+
+### 🌐 Supace Orto-Distribución, sl.
+- **Resumen profesional:** Gestión técnica integral y desarrollo estratégico adaptado a necesidades específicas.
+
+### 🌐 TastExperience, sl.
+- **Resumen profesional:** Colaboración directa en mejoras continuas para optimizar la experiencia de usuario.
+
+### 🌐 Technology 2050, sl. (Desenvolupament)
+- **Resumen profesional:** Liderazgo técnico orientado a resultados efectivos y sostenibles en entornos web.
 
 ---
 

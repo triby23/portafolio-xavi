@@ -1558,10 +1558,9 @@ Puedes ver mis proyectos y webs en producción, estas son algunas URLs:
 
 ## 📫 Contacto
 
-- Email: tuemail@ejemplo.com  
-- LinkedIn: [linkedin.com/in/xavi](https://linkedin.com/in/xavi)  
-- Web personal: [xavi.dev](https://xavi.dev) *(si tienes)*
-
+- Email: xavi.zamudio@gmail.com 
+- LinkedIn: ([https://linkedin.com/in/xavi](https://www.linkedin.com/in/xavier-zamudio-grau-77633ab0/))
+  
 ---
 
 ¡Gracias por visitar mi portafolio!  

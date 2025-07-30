@@ -1,10 +1,6 @@
-# Portafolio de Xavi
-
+# Portafolio Web - Xavi
 Product Manager & Consultor Freelance  
 📍 Basado en Barcelona | 🌐 Remoto
-
-Este es un resumen de los proyectos web en los que he trabajado año a año.
-# 🚀 Portafolio Web - Xavi
 
 Este portafolio detalla mi trayectoria profesional en desarrollo web, resaltando colaboraciones y resultados clave año a año.
 
@@ -1488,14 +1484,17 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 
 ## 📂 Repositorios y demos
 
-Puedes ver mis proyectos y código en:
-
-- [GitHub - portafolio-xavi](https://github.com/tuusuario/portafolio-xavi)  
-- [GitHub - xerigots](https://github.com/tuusuario/xerigots) *(ejemplo)*
-
-Si quieres ver las webs en producción, estas son algunas URLs:  
-- [https://xerigots.cat](https://xerigots.cat)  
-- [https://technoformapp.com](https://technoformapp.com) *(ejemplo)*
+Puedes ver mis proyectos y webs en producción, estas son algunas URLs:  
+## Proyectos y Webs en Producción Destacados
+- [https://xerigots.cat](https://xerigots.cat) — Plataforma de Xerigots Formatget i Vins, productos gourmet.  
+- [https://casasraluy.com](https://casasraluy.com) — Portal inmobiliario de Casas Raluy, venta de propiedades exclusivas.  
+- [https://cafesnovell.com](https://cafesnovell.com) — Producción y distribución internacional de café Cafès Novell.  
+- [https://beachsoccer.com](https://beachsoccer.com) — Organización y promoción internacional de eventos deportivos de beach soccer.  
+- [https://acceleralia.com](https://acceleralia.com) — Empresa tecnológica con soluciones digitales avanzadas.  
+- [https://amtu.cat](https://amtu.cat) — Asociación municipal de movilidad y transporte urbano.  
+- [https://brucjardi.com](https://brucjardi.com) — Tienda online de productos para jardinería y horticultura.  
+- [https://venturaextranjeria.com](https://venturaextranjeria.com) — Servicios legales especializados en extranjería (Ventura Extranjería).  
+- [https://telemesa.com](https://telemesa.com) — Plataforma de gestión y reserva de eventos (Telemesa Booking Service).   
 
 ---
 

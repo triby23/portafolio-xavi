@@ -1530,17 +1530,6 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 
 ---
 
-## 💻 Tecnologías y herramientas
-
-- **Lenguajes:** PHP, JavaScript, HTML, CSS  
-- **Frameworks:** React, Node.js, Express, Bootstrap  
-- **CMS:** WordPress, WooCommerce  
-- **Bases de datos:** MySQL  
-- **Control de versiones:** Git, GitHub, Bitbucket  
-- **Otras herramientas:** WPForms, Contact Form 7, Redsys (pagos)
-
----
-
 ## 📅 Año 2016 - 2021
 
 ### 🌐 SMILICS Technologies  
@@ -1611,6 +1600,17 @@ Durante mis prácticas, participé activamente en tareas de soporte y mantenimie
 - Aprendizaje y aplicación de buenas prácticas en gestión IT y atención al cliente.
 
 Esta experiencia me permitió adquirir una base sólida en administración de sistemas y soporte técnico en entornos empresariales reales.
+
+---
+
+## 💻 Tecnologías y herramientas
+
+- **Lenguajes:** PHP, JavaScript, HTML, CSS  
+- **Frameworks:** React, Node.js, Express, Bootstrap  
+- **CMS:** WordPress, WooCommerce  
+- **Bases de datos:** MySQL  
+- **Control de versiones:** Git, GitHub, Bitbucket  
+- **Otras herramientas:** WPForms, Contact Form 7, Redsys (pagos)
 
 ---
 

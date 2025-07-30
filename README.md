@@ -1,10 +1,19 @@
 # Portafolio de Xavi
 
+Product Manager & Consultor Freelance  
+📍 Basado en Barcelona | 🌐 Remoto
+
 Este es un resumen de los proyectos web en los que he trabajado año a año.
 # 🚀 Portafolio Web - Xavi
 
 Este portafolio detalla mi trayectoria profesional en desarrollo web, resaltando colaboraciones y resultados clave año a año.
 
+## 👤 Sobre mí
+Soy **[Tu Nombre]**, Product Manager con más de 3 años de experiencia dirigiendo soluciones web y productos digitales para sectores tan diversos como maquinaria industrial, sanidad, movilidad urbana y comercio electrónico. Me especializo en:
+- Gestión integral del ciclo de vida de producto (desde análisis de necesidades hasta lanzamiento y mejora continua).  
+- Coordinación de equipos multidisciplinares (UX/UI, desarrollo, QA, soporte).  
+- Trabajo data-driven: definición de KPIs, seguimiento y optimización.  
+- Metodologías ágiles (Scrum/Kanban) y enfoque Lean.
 ---
 
 ## 📅 Año 2025

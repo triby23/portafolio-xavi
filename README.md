@@ -129,6 +129,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 **Sector:** Comercio internacional y distribución de productos variados.  
 **Aportación:** Implementé soluciones digitales que fortalecieron la presencia online y mejoraron los procesos logísticos y de gestión, contribuyendo a una operatividad más ágil y efectiva.
 
+---
+
 ### 🌐 Cavas J. Hill, sl.  
 **Sector:** Empresa dedicada a la producción y comercialización de cava de alta calidad.  
 **Aportación:** Coordiné y ejecuté tareas de desarrollo que aseguraron la estabilidad y el rendimiento de su plataforma digital, mejorando la experiencia de usuario y facilitando la gestión comercial online.
@@ -210,6 +212,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 ### 🌐 Enric Paré Arquitectes Assoc., slp.  
 **Sector:** Estudio de arquitectura especializado en proyectos innovadores y sostenibles.  
 **Aportación:** Lideré el desarrollo y mantenimiento de su plataforma web, asegurando un entorno técnico eficiente que potencia la visibilidad de sus proyectos y facilita la comunicación con clientes.
+
+---
 
 ### 🌐 Erlebnis, slu. (Albert Punsola)  
 **Sector:** Empresa especializada en soluciones digitales personalizadas para sectores diversos.  

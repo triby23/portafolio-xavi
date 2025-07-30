@@ -104,6 +104,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 **Sector:** Consultoría empresarial y tecnológica orientada a la transformación digital.  
 **Aportación:** Coordiné y ejecuté tareas de desarrollo que aseguraron la estabilidad y el rendimiento de las plataformas digitales. Adapté soluciones tecnológicas a las necesidades del cliente, mejorando la eficiencia operativa y la experiencia de usuario en entornos corporativos.
 
+---
+
 ### 🌐 Anda Marketing Estratégico, sl.  
 **Sector:** Agencia de marketing digital especializada en estrategias integrales de comunicación y publicidad online.  
 **Aportación:** Gestioné de forma integral la infraestructura técnica y el desarrollo de sus plataformas digitales, adaptando soluciones estratégicas que potenciaron la captación de clientes y optimizaron la experiencia online, garantizando estabilidad y escalabilidad.
@@ -137,6 +139,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 ### 🌐 Beach Soccer World Wide, sl. (Desenvolupament)  
 **Sector:** Organización y promoción de eventos deportivos relacionados con el beach soccer.  
 **Aportación:** Gestioné integralmente el desarrollo y mantenimiento de su plataforma digital, implementando estrategias técnicas que fortalecieron la presencia online y permitieron una gestión más eficiente de eventos y contenidos relacionados con la actividad deportiva.
+
+---
 
 ### 🌐 Beach Soccer Worldwide, sl.  
 **Sector:** Organización y promoción de eventos deportivos relacionados con el beach soccer.  
@@ -456,6 +460,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 ### 🌐 Technoform Bautec Ibérica, slu.  
 **Sector:** Fabricación y distribución de componentes técnicos para la construcción y arquitectura.  
 **Aportación:** Coordiné y ejecuté tareas de desarrollo y mantenimiento tecnológico que aseguraron la estabilidad y el rendimiento de sus sistemas digitales, facilitando la gestión comercial y técnica.
+
+---
 
 ### 🌐 Technology 2050, sl. (Desenvolupament)  
 **Sector:** Empresa tecnológica especializada en desarrollo de soluciones digitales innovadoras.  
@@ -853,6 +859,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 **Sector:** Fabricación y comercialización de mobiliario y decoración.  
 **Aportación:** Implementé soluciones digitales que fortalecieron la presencia online y optimizaron la gestión comercial, mejorando la experiencia del usuario.
 
+---
+
 ### 🌐 Motor Munich, sa. (Backoffice env. Fres PDF)  
 **Sector:** Distribución y servicios automotrices con foco en gestión documental.  
 **Aportación:** Coordiné y ejecuté tareas de desarrollo para garantizar la estabilidad y el rendimiento óptimo de los sistemas internos, mejorando la eficiencia en la gestión documental y administrativa.
@@ -1167,6 +1175,8 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 ### 🌐 Eurotrod Iberia, sl.  
 **Sector:** Servicios tecnológicos y soluciones digitales.  
 **Aportación:** Implementé mejoras técnicas para fortalecer la infraestructura y asegurar un servicio estable y eficiente.
+
+---
 
 ### 🌐 Fund. Privada Hospital Sant Joan Baptista  
 **Sector:** Fundación sanitaria dedicada a la gestión hospitalaria y servicios médicos.  

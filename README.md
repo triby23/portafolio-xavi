@@ -1563,7 +1563,8 @@ Puedes ver mis proyectos y webs en producción, estas son algunas URLs:
   
 ---
 
-¡Gracias por visitar mi portafolio!  
-Si quieres saber más o colaborar, no dudes en contactarme.
+## ¡Gracias por visitar mi portafolio!
 
+Estoy abierto a nuevas oportunidades y colaboraciones que busquen innovación y excelencia tecnológica.  
+No dudes en ponerte en contacto conmigo.
 

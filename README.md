@@ -33,7 +33,7 @@ Me destaco por mi capacidad para resolver problemas técnicos bajo presión, imp
 - **CFGM SMX** – Sistemas Microinformáticos y Redes – Joaquim Mir (2010–2012)  
 - Prueba de acceso a Grado Superior (2012–2013)  
 - **CFGS DAW** – Desarrollo de Aplicaciones Web – Joaquim Mir (2013–2015)
-- **Máster universitario** Online de Desarrollo de Sitios y Aplicaciones Web (2020-2021)
+- **Máster universitario** Online de Desarrollo de Sitios y Aplicaciones Web (Frontend - Backend) (2020-2021)
 - **CFGS ASIX** – Administración de Sistemas Informáticos en Red – Joaquim Mir (2021–2022)
 ---
 

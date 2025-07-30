@@ -1,4 +1,4 @@
-# Portafolio Web – Xavi  
+# Portafolio Web – Xavi Zamudio
 **Product Manager & Consultor IT Freelance**  
 📍 Basado en Barcelona | 🌐 Trabajo remoto  
 

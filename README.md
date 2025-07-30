@@ -1,19 +1,73 @@
-# Portafolio Web - Xavi
-Product Manager & Consultor Freelance  
-📍 Basado en Barcelona | 🌐 Remoto
+# Portafolio Web – Xavi  
+**Product Manager & Consultor IT Freelance**  
+📍 Basado en Barcelona | 🌐 Trabajo remoto  
 
-Este portafolio detalla mi trayectoria profesional en desarrollo web, resaltando colaboraciones y resultados clave año a año.
+Este portafolio resume mi trayectoria profesional en el desarrollo y gestión de plataformas web, destacando colaboraciones clave, logros técnicos y resultados tangibles a lo largo de los años.
+
+---
 
 ## 👤 Sobre mí
 
-Soy un desarrollador web (Product Manager) y consultor IT con más de 15 años de experiencia especializado en la optimización, mantenimiento y desarrollo de plataformas digitales para clientes de sectores diversos, desde pequeñas empresas hasta grandes corporaciones.
+Soy Product Manager, desarrollador web y consultor IT con más de 15 años de experiencia ayudando a empresas de distintos sectores —desde pymes hasta grandes corporaciones— a optimizar, mantener y evolucionar sus entornos digitales.
 
-Mi perfil combina una sólida base técnica con habilidades estratégicas para liderar proyectos complejos, desde la arquitectura técnica hasta la implementación, optimización de seguridad y mejora continua del rendimiento web. He gestionado migraciones críticas, restauraciones tras incidentes de seguridad, integraciones API avanzadas y configuraciones personalizadas que aumentan la eficiencia operativa y la experiencia de usuario.
+Mi perfil combina una sólida base técnica con una visión estratégica orientada a resultados. Lidero proyectos complejos desde su arquitectura e implementación, hasta la optimización de seguridad, rendimiento y escalabilidad. He gestionado migraciones críticas, recuperaciones tras incidentes de seguridad, integraciones API complejas y desarrollos a medida que mejoran la eficiencia operativa y la experiencia de usuario.
 
-Destaco por mi capacidad para detectar y resolver problemas técnicos complejos bajo presión, implementar soluciones escalables y seguras, así como coordinar equipos y comunicar resultados a stakeholders de diferentes perfiles. Además, aporto valor estratégico mediante análisis de datos, automatización y monitorización proactiva que aseguran la estabilidad y evolución tecnológica de los sistemas.
+Me destaco por mi capacidad para resolver problemas técnicos bajo presión, implementar soluciones robustas y coordinar equipos técnicos y multidisciplinares. También aporto valor mediante análisis de datos, automatización de procesos y monitorización proactiva que aseguran la estabilidad y evolución tecnológica de los sistemas.
 
-Estoy especializado en entornos WordPress, Prestashop, Joomla, bases de datos MySQL y PostgreSQL, y tecnologías de servidor como Apache y Nginx. Además, manejo herramientas de seguridad como Wordfence y sistemas de caché avanzados para garantizar entornos robustos y confiables.
+---
 
+## 🛠️ Especialización técnica
+
+- **CMS:** WordPress, Prestashop, Joomla  
+- **Backend y bases de datos:** PHP, MySQL, PostgreSQL, MongoDB  
+- **Servidores:** Apache, Nginx (configuración y optimización avanzada)  
+- **Seguridad:** Wordfence, firewalls, hardening, backups automatizados  
+- **Rendimiento:** sistemas de caché, optimización de carga, CDN  
+
+---
+
+## 🎓 Formación Académica
+
+- Educación primaria y ESO – *Col·legi El Carme Sant Elies*  
+- **Cisco Networking Academy** – Redes y mantenimiento informático  
+- **CFGM SMX** – Sistemas Microinformáticos y Redes – Joaquim Mir (2010–2012)  
+- Prueba de acceso a Grado Superior (2012–2013)  
+- **CFGS DAW** – Desarrollo de Aplicaciones Web – Joaquim Mir (2013–2015)
+- **CFGS ASIX** – Administración de Sistemas Informáticos en Red – Joaquim Mir (2021–2022)
+---
+
+## 🌍 Idiomas
+
+- **Catalán y Castellano:** nativos  
+- **Inglés:** comprensión y redacción técnica
+
+---
+
+## 💻 Competencias Técnicas
+
+- **Programación web:** HTML5, CSS, JavaScript, PHP, AngularJS, jQuery, ASP, XML  
+- **CMS:** WordPress, Joomla, Prestashop  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB, Oracle, Cassandra  
+- **Otros lenguajes:** Java, C/C++, Visual Basic, JSP, J2EE, Android Studio, PhoneGap  
+- **Diseño:** Photoshop (nivel avanzado)  
+- **Herramientas:** aplicaciones de gestión, Pack Office, automatización y análisis  
+- **Conocimientos extra:** estadística, optimización y arquitectura web
+
+---
+
+## 💼 Experiencia Profesional
+
+- **Beniflors** – Dependiente de comercio (2005–2009)  
+- **Gestinet** – Prácticas (2011–2012)  
+- **OpenDomo** – Prácticas (2014–2015)  
+- **Freelance** – Creación y mantenimiento de más de 10 sitios web para clientes de diversos sectores  
+- **e-GreenRabbit** – WebMaster (julio 2015 – enero 2016)  
+- **SMILICS Technologies** – IT Developer / Front-End (febrero 2016 – septiembre 2021)  
+  - Desarrollo de soluciones tecnológicas internas y mantenimiento de plataformas digitales  
+- **Gestinet** – Responsable del departamento de programación (enero 2022 – Actualidad)  
+  - Coordinación técnica, liderazgo de proyectos y desarrollos personalizados
+
+---
 # Proyectos y Experiencia con Clientes
 
 A continuación se detallan los principales clientes y el valor aportado en sus proyectos:

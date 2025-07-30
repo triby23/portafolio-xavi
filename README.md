@@ -1541,6 +1541,79 @@ A continuación se detallan los principales clientes y el valor aportado en sus 
 
 ---
 
+## 📅 Año 2016 - 2021
+
+### 🌐 SMILICS Technologies  
+**Sector:** Tecnología avanzada para soluciones domóticas y gestión energética enfocada en eficiencia y automatización inteligente.
+
+**Aportación:**  
+Gestión técnica integral de múltiples plataformas digitales y sistemas domóticos, desarrollando e implementando soluciones innovadoras adaptadas a las necesidades específicas del cliente. Entre mis responsabilidades y logros destacaron:
+
+- Diseño y desarrollo de sistemas de captura y análisis de datos eléctricos en tiempo real, incluyendo generación y exportación de gráficas de consumo.  
+- Creación de un comparador de tarifas eléctricas para optimizar el gasto energético doméstico.  
+- Implementación de calendarios y automatización para la programación de eventos de apagado y encendido automático de dispositivos.  
+- Desarrollo de módulos de desglose del consumo eléctrico por aparatos específicos dentro del hogar, mejorando la visibilidad y control del usuario sobre su consumo.  
+- Programación de herramientas de verificación y diagnóstico para módulos electrónicos de los dispositivos domóticos, garantizando calidad y funcionamiento.  
+- Gestión de la impresión 3D para el diseño y fabricación de componentes personalizados para los aparatos, integrando prototipado rápido en el proceso de desarrollo.  
+- Optimización de flujos internos y mejora continua de la experiencia de usuario en las plataformas web asociadas.
+
+Este conjunto de desarrollos permitió a SMILICS Technologies ofrecer soluciones inteligentes de domótica que mejoran la eficiencia energética, la autonomía del usuario y la integración tecnológica en hogares modernos.
+
+---
+## 📅 Año 2015-2016
+
+### 🌿 e-GreenRabbit (también conocida como [clinicadelmobil.com](https://clinicadelmobil.com)) — WebMaster (julio 2015 – enero 2016)  
+**Sector:** Servicios y soluciones digitales sostenibles.
+
+**Aportación:**  
+Gestioné y mantuve la plataforma web corporativa, asegurando su estabilidad y rendimiento. Entre mis principales responsabilidades:
+
+- Desarrollo y optimización de nuevas funcionalidades para mejorar la usabilidad y experiencia del usuario.  
+- Supervisión de la infraestructura web y actualización continua de contenidos.  
+- Coordinación con equipos de diseño y marketing para alinear la presencia digital con los objetivos comerciales.  
+- Implementación de mejoras técnicas para optimizar la velocidad y seguridad del sitio web.  
+- Resolución de incidencias y soporte técnico para garantizar la disponibilidad constante de la plataforma.
+
+Esta posición fortaleció mis habilidades en administración web y gestión integral de plataformas digitales en entornos sostenibles.
+
+---
+
+## 📅 Año 2014-2015
+
+### 🏢 OpenDomo — Prácticas (2014–2015)  
+**Sector:** Soluciones domóticas y automatización para hogares inteligentes.
+
+**Aportación:**  
+Durante mis prácticas, colaboré activamente en el desarrollo y mantenimiento de aplicaciones y sistemas domóticos, participando en proyectos clave como:
+
+- Soporte en el desarrollo frontend y backend de plataformas para gestión de dispositivos inteligentes.  
+- Implementación de funcionalidades para monitorización y control remoto de sistemas domóticos.  
+- Participación en la integración de sensores y actuadores, facilitando la comunicación entre hardware y software.  
+- Colaboración en la mejora de interfaces de usuario para optimizar la experiencia y accesibilidad.  
+- Apoyo en pruebas y verificación de sistemas para asegurar la calidad y fiabilidad de las soluciones.  
+
+Esta experiencia me permitió consolidar conocimientos técnicos y habilidades prácticas en un entorno real de innovación tecnológica aplicada a la domótica.
+
+---
+
+## 📅 Año 2011-2012
+
+### 🖥️ Gestinet — Prácticas (2011–2012)  
+**Sector:** Servicios informáticos y soporte técnico para empresas.
+
+**Aportación:**  
+Durante mis prácticas, participé activamente en tareas de soporte y mantenimiento informático, contribuyendo a:
+
+- Administración y configuración de sistemas y redes internas.  
+- Soporte técnico a usuarios y resolución de incidencias de hardware y software.  
+- Colaboración en proyectos de desarrollo y mantenimiento de plataformas web corporativas.  
+- Monitorización y optimización de infraestructuras tecnológicas para mejorar su estabilidad y seguridad.  
+- Aprendizaje y aplicación de buenas prácticas en gestión IT y atención al cliente.
+
+Esta experiencia me permitió adquirir una base sólida en administración de sistemas y soporte técnico en entornos empresariales reales.
+
+---
+
 ## 📂 Repositorios y demos
 
 Puedes ver mis proyectos y webs en producción, estas son algunas URLs:  
